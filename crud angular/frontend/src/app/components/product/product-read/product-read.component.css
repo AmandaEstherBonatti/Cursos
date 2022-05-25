@@ -1,0 +1,36 @@
+.full-width-table {
+    width: 100%;
+    background: #5a66ad;
+}
+
+.mat-column-name {
+    font-size: 15px;
+    padding-top: 3px;
+    color: white;
+}
+
+.mat-column-price {
+    font-style: italic;
+    padding-top: 3px;
+    color: white;
+    font-size: 15px;
+}
+
+.mat-column-actions {
+    font-style: italic;
+    padding-top: 3px;
+    color: white;
+    font-size: 15px;
+}
+
+.edit {
+    margin-right: 15px;
+}
+
+.edit>i {
+    color: #d9c
+}
+
+.delete>i {
+    color: rgb(0, 0, 0)
+}

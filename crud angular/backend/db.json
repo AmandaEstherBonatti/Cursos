@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BICc",
+      "price": 1.22
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 10000.22
+    },
+    {
+      "id": 3,
+      "name": "Celular",
+      "price": 3302.22
+    },
+    {
+      "name": "Produto Teste",
+      "price": 0,
+      "id": 4
+    },
+    {
+      "name": "Carro",
+      "price": "100",
+      "id": 7
+    },
+    {
+      "name": "Garraafinha",
+      "price": "10",
+      "id": 8
+    },
+    {
+      "name": "agua",
+      "price": "1",
+      "id": 9
+    },
+    {
+      "name": "pasta dental",
+      "price": "7",
+      "id": 10
+    }
+  ]
+}

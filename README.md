@@ -12,3 +12,12 @@ Anotações CMD:
 > npm init -y (cria um package.json)
   
 > npm i json-server (cria as outras dependências do .json)
+
+>nest g module app/exemplo
+
+>nest g controller app/exemplo
+
+>nest g service app/exemplo
+
+
+

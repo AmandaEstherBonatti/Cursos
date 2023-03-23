@@ -1,5 +1,6 @@
 # Cursos
 Cursos feitos na internet
+Cada Branch representa um projeto diferente em uma lingaguem diferente
 
 Anotações de git:
 >git checkout -b <branch name>
